@@ -86,3 +86,7 @@ Warehouse_Retail_Sales_Analysis.ipynb
 README.md
 requirements.txt
 
+##Dataset Source
+
+https://www.kaggle.com/datasets/sharafatahmed/warehouse-and-retail-sales
+
